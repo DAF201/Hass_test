@@ -1,0 +1,7 @@
+{
+    "name": "e_cam",
+    "content_in_root": true,
+    "domains": "camera",
+    "iot_class": "Local push",
+    "render_readme": false
+  }

@@ -1,0 +1,10 @@
+{
+  "domain": "e_cam",
+  "name": "e cam",
+  "documentation": "https://github.com/DAF201/2021_internship_week_3-unknown",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@DAF201"],
+  "iot_class": "local_push",
+  "version": "1.0.0"
+}
