@@ -1,12 +1,12 @@
 # 2021 internship week 3-unknown 
-#unfinish😅
+~~#unfinish😅
 
-#partially finished
+~~#partially finished
 
-#basic parts finished
+~~#basic parts finished
 
-#most parts finished
+~~#most parts finished
 
-#test version
+~~#test version
 
 HASS Suck
